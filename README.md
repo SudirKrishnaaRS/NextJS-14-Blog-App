@@ -25,3 +25,21 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+# Topics Covered
+
+Concepts alongside with Timestamp
+
+## 01 : App Router (V.Easy)
+
+    Topics :
+        - App Router Overview
+        - Routes
+        - Nested Routes
+        - Dynamic Routes
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=3n4CPvRhC5aj7Gpy&t=576
+
+    Timestamp :
+           09:35
