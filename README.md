@@ -43,4 +43,8 @@ Concepts alongside with Timestamp
 
     Timestamp :
            09:35
+
 <img width="879" alt="image" src="https://github.com/SudirKrishnaaRS/next14-starter/assets/67383465/4057e790-fdd2-4074-9e52-48cf4b5bbb96">
+
+    References / Links :
+        - https://nextjs.org/docs/app/building-your-application/routing/colocation
