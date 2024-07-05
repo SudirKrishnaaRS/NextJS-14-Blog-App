@@ -76,3 +76,16 @@ Concepts alongside with Timestamp
 
     Timestamp :
            28:00
+
+## 04 : CSS Modules
+
+    Topics :
+        - CSS Modules
+        - Usage : Helps in easy development as it generates unique class names thus not causing any overrides in styles.
+        - Advantages of CSS Modules over normal CSS
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=8Ll6vvfOwY0yJ6z9&t=2152
+
+    Timestamp :
+           35:52
