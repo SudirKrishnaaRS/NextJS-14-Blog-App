@@ -62,3 +62,17 @@ Concepts alongside with Timestamp
 
     Timestamp :
            18:50 Next.js Layouts Explained
+
+## 03 : Next.js Loading, Error, Not Found Pages
+
+    Topics :
+        - Loading : `loading.jsx`
+        - Error : `error.jsx`
+             (NOTE: This should be a client component  "use client")
+        - Not Found : `not-found.jsx`
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=utHVIGEBXT-rWwnW&t=1130
+
+    Timestamp :
+           28:00
