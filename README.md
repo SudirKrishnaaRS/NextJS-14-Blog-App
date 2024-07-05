@@ -48,3 +48,17 @@ Concepts alongside with Timestamp
 
     References / Links :
         - https://nextjs.org/docs/app/building-your-application/routing/colocation
+
+## 02 : Layout
+
+    Topics :
+        - Layout overview
+        - Usecase : useful to add Header and Footer once and it reflects in all pages.
+        - `layout.js` or `layout.jsx`
+        - Layout for a particular route (eg. when you create a `layout.jsx` file inside `blog` folder even your nested routes like `blog/1` would have the common layout which you written in `layout.jsx` file)
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=utHVIGEBXT-rWwnW&t=1130
+
+    Timestamp :
+           18:50 Next.js Layouts Explained
