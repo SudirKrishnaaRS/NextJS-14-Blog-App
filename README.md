@@ -89,3 +89,20 @@ Concepts alongside with Timestamp
 
     Timestamp :
            35:52
+
+## 05 : NextJS Image
+
+    Topics :
+        - Traditional <img/>
+        - Next.js Image Component
+        - Using Image Containers
+        - Handling External Images
+        - Common Issues:
+            1) Image not displaying: Ensure the width and height properties are specified.
+            2) External image blocked: Check that the domain is added in next.config.js.
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=b7l15WJqxRWQVLG2&t=3571
+
+    Timestamp :
+           59:30
