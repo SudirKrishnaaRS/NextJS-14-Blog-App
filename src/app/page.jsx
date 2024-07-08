@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
-        <h1 className={styles.title}>Creative Thoughts Agency.</h1>
+        <h1 className={styles.title}>Pixel Dope Agency.</h1>
         <p className={styles.desc}>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus
           hic necessitatibus ab dicta atque.
