@@ -1,4 +1,8 @@
-# NextJS Image Notes
+# NextJS Image Notes (V.Easy)
+
+## YT :
+
+https://youtu.be/vCOSTG10Y4o?si=b7l15WJqxRWQVLG2&t=3571
 
 ## Introduction
 
