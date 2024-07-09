@@ -66,7 +66,7 @@ Concepts alongside with Timestamp
 ## 03 : Next.js Loading, Error, Not Found Pages
 
     Topics :
-        - Loading : `loading.jsx`
+        - Loading: `loading.jsx`
         - Error : `error.jsx`
              (NOTE: This should be a client component  "use client")
         - Not Found : `not-found.jsx`
