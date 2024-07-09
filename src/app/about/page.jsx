@@ -3,22 +3,33 @@ import styles from "./about.module.css";
 
 const AboutPage = () => {
   return (
-    <div>
-      <div className={styles.imgContainer}>
-        {/* Traditional */}
-        {/* <img src="./about.png" /> */}
+    <div className={styles.container}>
+      <div className={styles.textContainer}>
+        <h2 className={styles.subtitle}>About Agency</h2>
+        <h1 className={styles.title}>
+          We create digital ideas that are bigger, bolder, braver and better.
+        </h1>
+        <p className={styles.desc}>
+          We believe in good ideas flexiblity and precission. Our special team
+          best consulting & finance solution provider. Wide range of web and
+          software development services.{" "}
+        </p>
+        <div className={styles.boxes}>
+          <div className={styles.box}>
+            <h1>10 +</h1>
+            <p>Years of experiance</p>
+          </div>
 
-        {/* NextJS Image tag */}
-        {/* <Image src="/about.png" width={500} height={500} /> */}
+          <div className={styles.box}>
+            <h1>10 +</h1>
+            <p>Years of experiance</p>
+          </div>
 
-        {/* NextJS Image tag : When used inside a container */}
-        {/* <Image src="/about.png" fill /> */}
-
-        {/* NextJS Image tag : Handling External Images */}
-        <Image
-          src="https://images.pexels.com/photos/15804651/pexels-photo-15804651/free-photo-of-people-together-on-motorcycle-on-road-in-mountains.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
-          fill
-        />
+          <div className={styles.box}>
+            <h1>10 +</h1>
+            <p>Years of experiance</p>
+          </div>
+        </div>
       </div>
     </div>
   );
