@@ -31,6 +31,14 @@ const AboutPage = () => {
           </div>
         </div>
       </div>
+      <div className={styles.imgContainer}>
+        <Image
+          src="/about.png"
+          alt="About banner image"
+          fill
+          className={styles.img}
+        />
+      </div>
     </div>
   );
 };
