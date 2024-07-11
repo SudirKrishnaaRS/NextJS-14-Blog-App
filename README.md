@@ -121,5 +121,9 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/Nex
 
     Timestamp :
            01:48:35
-
+### SSR vs CSR (With Pros and Cons)
 ![image](https://github.com/SudirKrishnaaRS/next14-starter/assets/67383465/74452366-c6bc-4190-8a60-4c32cb58db89)
+
+### Example of having Server Components and Client Components combined
+![image](https://github.com/SudirKrishnaaRS/next14-starter/assets/67383465/011f45c0-2876-4266-8750-5bb5ab3f9397)
+
