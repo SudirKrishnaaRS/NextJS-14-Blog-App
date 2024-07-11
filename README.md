@@ -111,6 +111,8 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/Nex
 
 ## 06 : NextJS Rendering
 
+Detailed Notes :
+
     Topics :
         - Server Component - default
         - Client Component - "use client";
