@@ -92,7 +92,7 @@ Concepts alongside with Timestamp
 
 ## 05 : NextJS Image
 
-Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/NextJs%20Image%20Notes.md
+Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/notes/NextJs%20Image%20Notes.md
 
     Topics :
         - Traditional <img/>
