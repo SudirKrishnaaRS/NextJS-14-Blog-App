@@ -111,7 +111,7 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 
 ## 06 : NextJS Rendering
 
-Detailed Notes :
+Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/notes/NextJS%20Rendering%20-%20SSR%2CCSR.md
 
     Topics :
         - Server Component - default
