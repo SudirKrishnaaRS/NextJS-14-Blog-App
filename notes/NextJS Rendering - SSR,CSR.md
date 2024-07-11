@@ -33,6 +33,9 @@ Next.js offers two main types of rendering: Server-Side Rendering (SSR) and Clie
 
 ## Client-Side Rendering (CSR)
 
+![image](https://github.com/SudirKrishnaaRS/next14-starter/assets/67383465/fa73f3a6-8133-438f-b592-1dacdf6120a4)
+
+
 - **Modern Method**: Commonly used with single-page applications like React.
 - **Process**:
   1. User sends a request to the server.
