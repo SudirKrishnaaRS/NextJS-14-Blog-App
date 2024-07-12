@@ -133,3 +133,20 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 ### Example of having Server Components and Client Components combined
 
 ![image](https://github.com/SudirKrishnaaRS/next14-starter/assets/67383465/011f45c0-2876-4266-8750-5bb5ab3f9397)
+
+## 07 : Next.js 14 Hydration Error and the Solutions
+
+    Topics :
+        - What is Hydration?
+        - Why Hydration Error
+        - How to resolve Hydration Error
+            a) Code Work around using useState and useEffect to conditionally render JSX only when it's Client side render
+            b) Using dynamic import (with SSR flag set to false)
+
+            c) Using `suppressHydrationWarning` key in JSX
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=jfkoS81yIJdGGETn&t=7101
+
+    Timestamp :
+           01:58:20
