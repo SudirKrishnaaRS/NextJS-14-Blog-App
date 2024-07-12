@@ -90,3 +90,41 @@ app/(auth)/forgot-password/page.js
 - Simplicity: No need for additional configuration or libraries for routing.
 - Scalability: Easily manage a growing number of pages and routes.
 - Flexibility: Group related routes for better organization without affecting the URL structure.
+
+## Example: Creating a Navigation Bar Component
+
+Create a reusable navigation bar component.
+
+```javascript
+// app/components/Navbar.js
+import Link from "next/link";
+
+export default function Navbar() {
+  return (
+    <nav>
+      <Link href="/">Home</Link>
+      <Link href="/about">About</Link>
+      <Link href="/contact">Contact</Link>
+      <Link href="/blog">Blog</Link>
+      <Link href="/admin">Admin</Link>
+      <Link href="/auth/login">Login</Link>
+    </nav>
+  );
+}
+```
+
+Use the component in your pages.
+
+```javascript
+// app/page.js
+import Navbar from "./components/Navbar";
+
+export default function HomePage() {
+  return (
+    <div>
+      <Navbar />
+      <h1>Home Page</h1>
+    </div>
+  );
+}
+```
