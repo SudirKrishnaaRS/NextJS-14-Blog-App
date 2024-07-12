@@ -140,20 +140,24 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
         - What is Hydration?
         - Why Hydration Error
         - How to resolve Hydration Error
-    
+
 #### a) Code Workaround using useState and useEffect to conditionally render JSX only when it's Client side render
+
             Example-
+
 ![Screenshot 2024-07-12 at 11 32 28 AM](https://github.com/user-attachments/assets/759adb4c-c1b3-4e4f-beff-45d90e925b8d)
 
 #### b) Using dynamic import (with SSR flag set to false)
+
             Example-
+
 ![image](https://github.com/user-attachments/assets/c18d7aa9-2f77-4524-84bd-90c263dee3a6)
 
-
 #### c) Using `suppressHydrationWarning` key in JSX
-            Example-
-![Screenshot 2024-07-12 at 11 36 08 AM](https://github.com/user-attachments/assets/6f4fe5f1-fdfd-41da-8229-6df90473f041)
 
+            Example-
+
+![Screenshot 2024-07-12 at 11 36 08 AM](https://github.com/user-attachments/assets/6f4fe5f1-fdfd-41da-8229-6df90473f041)
 
     Link :
          https://youtu.be/vCOSTG10Y4o?si=jfkoS81yIJdGGETn&t=7101
