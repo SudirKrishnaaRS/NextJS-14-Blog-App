@@ -134,13 +134,15 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 
 ![image](https://github.com/SudirKrishnaaRS/next14-starter/assets/67383465/011f45c0-2876-4266-8750-5bb5ab3f9397)
 
-## 07 : Next.js 14 Hydration Error and the Solutions
+## 07 : Next.js 14 Hydration Error and the Solutions (V.Easy)
 
     Topics :
         - What is Hydration?
         - Why Hydration Error
         - How to resolve Hydration Error
             a) Code Work around using useState and useEffect to conditionally render JSX only when it's Client side render
+![Screenshot 2024-07-12 at 11 32 28 AM](https://github.com/user-attachments/assets/759adb4c-c1b3-4e4f-beff-45d90e925b8d)
+
             b) Using dynamic import (with SSR flag set to false)
             Example-
 ![image](https://github.com/user-attachments/assets/c18d7aa9-2f77-4524-84bd-90c263dee3a6)
