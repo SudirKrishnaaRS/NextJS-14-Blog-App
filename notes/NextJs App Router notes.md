@@ -40,3 +40,19 @@ export default function AboutPage() {
   return <h1>About Page</h1>;
 }
 ```
+
+# Nested Routes
+
+Nested Pages in About: Create subdirectories for nested routes.
+
+```javascript
+// app/about/company/page.js
+export default function AboutCompanyPage() {
+return <h1>About Company</h1>;
+}
+
+// app/about/career/page.js
+export default function AboutCareerPage() {
+return <h1>About Career</h1>;
+}
+```
