@@ -56,3 +56,21 @@ export default function AboutCareerPage() {
 return <h1>About Career</h1>;
 }
 ```
+
+# Dynamic Routes
+
+Dynamic Blog Post: Use square brackets to define dynamic routes.
+
+```javascript
+// app/blog/[slug]/page.js
+import { useRouter } from "next/router";
+
+export default function BlogPostPage() {
+  const router = useRouter();
+  const { slug } = router.query;
+
+  return <h1>Post: {slug}</h1>;
+}
+```
+
+- Dynamic routes handle parameters like post IDs or slugs.
