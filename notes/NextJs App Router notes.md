@@ -74,3 +74,13 @@ export default function BlogPostPage() {
 ```
 
 - Dynamic routes handle parameters like post IDs or slugs.
+
+# Grouping Routes
+
+Grouping Authentication Pages: Use parentheses for grouping related pages without affecting the URL structure.
+
+```plaintext
+app/(auth)/login/page.js
+app/(auth)/register/page.js
+app/(auth)/forgot-password/page.js
+```
