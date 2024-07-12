@@ -84,3 +84,9 @@ app/(auth)/login/page.js
 app/(auth)/register/page.js
 app/(auth)/forgot-password/page.js
 ```
+
+## Benefits
+
+- Simplicity: No need for additional configuration or libraries for routing.
+- Scalability: Easily manage a growing number of pages and routes.
+- Flexibility: Group related routes for better organization without affecting the URL structure.
