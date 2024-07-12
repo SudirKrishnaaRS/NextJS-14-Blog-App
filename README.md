@@ -32,6 +32,8 @@ Concepts alongside with Timestamp
 
 ## 01 : App Router (V.Easy)
 
+Detailed Notes :
+
     Topics :
         - App Router Overview
         - Routes
