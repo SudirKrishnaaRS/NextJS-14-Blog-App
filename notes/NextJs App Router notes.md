@@ -20,3 +20,23 @@
   npx create-next-app@latest my-next-app
   cd my-next-app
   ```
+
+# Creating Pages
+
+#### Home Page: Create app/page.js.
+
+```javascript
+// app/page.js
+export default function HomePage() {
+  return <h1>Home Page</h1>;
+}
+```
+
+#### About Page: Create app/about/page.js.
+
+```javascript
+// app/about/page.js
+export default function AboutPage() {
+  return <h1>About Page</h1>;
+}
+```
