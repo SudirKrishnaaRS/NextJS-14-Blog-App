@@ -32,7 +32,7 @@ Concepts alongside with Timestamp
 
 ## 01 : App Router (V.Easy)
 
-Detailed Notes :
+Detailed Notes : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/notes/NextJs%20App%20Router%20notes.md
 
     Topics :
         - App Router Overview
