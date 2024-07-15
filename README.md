@@ -164,3 +164,10 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 
     Timestamp :
            01:58:20
+
+### FAQ
+
+1) What happens when you wrap you server components with a Client component?
+ 
+   Ans. The children of your Client component would still be a Server Component as it's just a wrapper
+        
