@@ -167,7 +167,24 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 
 ### FAQ
 
-1) What happens when you wrap you server components with a Client component?
- 
+1. What happens when you wrap you server components with a Client component?
+
    Ans. The children of your Client component would still be a Server Component as it's just a wrapper
-        
+
+## 08 : Navigations
+
+Detailed Examples for Client Side Navigations :
+
+    Topics :
+        - Client Side Navigations
+            - useRouter() : Navigate via code like router.push() ,
+              replace(""), back(), forward();
+            - usePathname() : Useful to get the current path name
+            - useSearchParams() : Useful to get the current query params
+        - Server Side Navigations
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=E9MyjsKV9-TuV728&t=6516
+
+    Timestamp :
+           01:48:35
