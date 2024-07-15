@@ -184,7 +184,7 @@ Detailed Examples for Client Side Navigations :
         - Server Side Navigations
 
     Link :
-         https://youtu.be/vCOSTG10Y4o?si=E9MyjsKV9-TuV728&t=6516
+         https://youtu.be/vCOSTG10Y4o?si=Sw-h_SHrPWxmfwuO&t=7675
 
     Timestamp :
            01:48:35
