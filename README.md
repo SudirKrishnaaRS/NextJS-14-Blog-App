@@ -182,7 +182,8 @@ Detailed Examples for Client Side Navigations :
             - usePathname() : Useful to get the current path name
             - useSearchParams() : Useful to get the current query params
         - Server Side Navigations
-            - Params :
+            - Params : useful to get the current path name on the server-side components  (logged in terminal)
+            
 
     Link :
          https://youtu.be/vCOSTG10Y4o?si=Sw-h_SHrPWxmfwuO&t=7675
