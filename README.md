@@ -182,9 +182,10 @@ Detailed Examples for Client Side Navigations :
             - usePathname() : Useful to get the current path name
             - useSearchParams() : Useful to get the current query params
         - Server Side Navigations
+            - Params :
 
     Link :
          https://youtu.be/vCOSTG10Y4o?si=Sw-h_SHrPWxmfwuO&t=7675
 
     Timestamp :
-           01:48:35
+           02:07:55
