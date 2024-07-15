@@ -173,7 +173,7 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 
 ## 08 : Navigations
 
-Detailed Examples for Client Side Navigations :
+Detailed Examples for Client Side Navigations : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/navigationtest/page.jsx
 
     Topics :
         - Client Side Navigations
