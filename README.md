@@ -208,3 +208,17 @@ Detailed Example : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/ma
 
     Timestamp :
            02:17:26
+
+## 10 : NextJS Suspense (V.Easy)
+
+Detailed Notes :
+
+    Topics :
+        - Suspense (same as react)
+        - Useful for showing loading
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=gBIRN65zwRxoc8kP&t=8698
+
+    Timestamp :
+           02:17:26
