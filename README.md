@@ -196,7 +196,7 @@ Detailed Examples for Client Side Navigations : https://github.com/SudirKrishnaa
 
 ## 09 : NextJS Data Fetching (V.Easy)
 
-Detailed Notes :
+Detailed Example : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/blog/page.jsx
 
     Topics :
         - How to do Data Fecthing?
