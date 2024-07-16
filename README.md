@@ -216,6 +216,7 @@ Detailed Example : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/ma
     Topics :
         - Suspense (same as react)
         - Useful for showing loading
+![Screenshot 2024-07-16 at 1 11 31 PM](https://github.com/user-attachments/assets/66d6e68a-2e79-4d8d-9e75-91f72603dede)
 
     Link :
          https://youtu.be/vCOSTG10Y4o?si=gBIRN65zwRxoc8kP&t=8698
