@@ -183,13 +183,28 @@ Detailed Examples for Client Side Navigations : https://github.com/SudirKrishnaa
             - useSearchParams() : Useful to get the current query params
         - Server Side Navigations
             - Params : useful to get the current path name on the server-side components  (logged in terminal)
+
 <img width="1175" alt="Screenshot 2024-07-15 at 6 41 33 PM" src="https://github.com/user-attachments/assets/359b9e36-d8b9-46be-860f-873dc835ecc6">
             - searchParams : useful to get the current query params in server-side components
 <img width="1175" alt="Screenshot 2024-07-15 at 6 42 55 PM" src="https://github.com/user-attachments/assets/0dc99e01-2bd0-4000-a261-c44ea70b19a0">
-
 
     Link :
          https://youtu.be/vCOSTG10Y4o?si=Sw-h_SHrPWxmfwuO&t=7675
 
     Timestamp :
            02:07:55
+
+## 09 : NextJS Data Fetching (V.Easy)
+
+Detailed Notes :
+
+    Topics :
+        - How to do Data Fecthing?
+        - Caching, No caching
+        - Revalidate the cache periodically
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=T_8iC41snN1oe7yR&t=8246
+
+    Timestamp :
+           02:17:26
