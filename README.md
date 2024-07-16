@@ -211,7 +211,7 @@ Detailed Example : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/ma
 
 ## 10 : NextJS Suspense (V.Easy)
 
-Detailed Notes :
+Detailed Notes : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/blog/%5Bslug%5D/page.jsx
 
     Topics :
         - Suspense (same as react)
