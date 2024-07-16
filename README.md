@@ -221,4 +221,4 @@ Detailed Notes :
          https://youtu.be/vCOSTG10Y4o?si=gBIRN65zwRxoc8kP&t=8698
 
     Timestamp :
-           02:17:26
+           02:24:58
