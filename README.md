@@ -69,7 +69,7 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main
 
     Topics :
         - Loading: `loading.jsx`
-        - Error : `error.jsx`
+        - Error: `error.jsx`
              (NOTE: This should be a client component  "use client")
         - Not Found : `not-found.jsx`
 
