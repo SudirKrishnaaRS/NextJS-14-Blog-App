@@ -55,7 +55,7 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main
 
     Topics :
         - Layout overview
-        - Usecase : useful to add Header and Footer once and it reflects in all pages.
+        - Use case: useful to add Header and Footer once and it reflects on all pages.
         - `layout.js` or `layout.jsx`
         - Layout for a particular route (eg. when you create a `layout.jsx` file inside `blog` folder even your nested routes like `blog/1` would have the common layout which you written in `layout.jsx` file)
 
