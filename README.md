@@ -113,7 +113,7 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 
 ## 06 : NextJS Rendering
 
-Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/notes/NextJS%20Rendering%20-%20SSR%2CCSR.md
+Detailed Notes: https://github.com/SudirKrishnaaRS/next14-starter/blob/main/notes/NextJS%20Rendering%20-%20SSR%2CCSR.md
 
     Topics :
         - Server Component - default
@@ -153,7 +153,7 @@ Detailed Notes : https://github.com/SudirKrishnaaRS/next14-starter/blob/main/not
 
 ![image](https://github.com/user-attachments/assets/c18d7aa9-2f77-4524-84bd-90c263dee3a6)
 
-#### c) Using `suppressHydrationWarning` key in JSX
+#### c) Using the `suppressHydrationWarning` key in JSX
 
             Example-
 
