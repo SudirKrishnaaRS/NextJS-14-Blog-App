@@ -134,7 +134,7 @@ Detailed Notes: https://github.com/SudirKrishnaaRS/next14-starter/blob/main/note
 
 ![image](https://github.com/SudirKrishnaaRS/next14-starter/assets/67383465/011f45c0-2876-4266-8750-5bb5ab3f9397)
 
-## 07 : Next.js 14 Hydration Error and the Solutions (V.Easy)
+## 07: Next.js 14 Hydration Error and the Solutions (V.Easy)
 
     Topics :
         - What is Hydration?
@@ -173,7 +173,7 @@ Detailed Notes: https://github.com/SudirKrishnaaRS/next14-starter/blob/main/note
 
 ## 08 : Navigations
 
-Detailed Examples for Client Side Navigations : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/navigationtest/page.jsx
+Detailed Examples for Client Side Navigations: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/navigationtest/page.jsx
 
     Topics :
         - Client Side Navigations
