@@ -194,12 +194,12 @@ Detailed Examples for Client Side Navigations: https://github.com/SudirKrishnaaR
     Timestamp :
            02:07:55
 
-## 09 : NextJS Data Fetching (V.Easy)
+## 09: NextJS Data Fetching (V.Easy)
 
-Detailed Example : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/blog/page.jsx
+Detailed Example: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/blog/page.jsx
 
     Topics :
-        - How to do Data Fecthing?
+        - How to do Data Fetching?
         - Caching, No caching
         - Revalidate the cache periodically
 
