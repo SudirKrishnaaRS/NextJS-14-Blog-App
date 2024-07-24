@@ -167,11 +167,11 @@ Detailed Notes: https://github.com/SudirKrishnaaRS/next14-starter/blob/main/note
 
 ### FAQ
 
-1. What happens when you wrap you server components with a Client component?
+1. What happens when you wrap your server components with a Client component?
 
    Ans. The children of your Client component would still be a Server Component as it's just a wrapper
 
-## 08 : Navigations
+## 08: Navigations
 
 Detailed Examples for Client Side Navigations: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/navigationtest/page.jsx
 
@@ -182,7 +182,7 @@ Detailed Examples for Client Side Navigations: https://github.com/SudirKrishnaaR
             - usePathname() : Useful to get the current path name
             - useSearchParams() : Useful to get the current query params
         - Server Side Navigations
-            - Params : useful to get the current path name on the server-side components  (logged in terminal)
+            - Params: useful to get the current path name on the server-side components  (logged in terminal)
 
 <img width="1175" alt="Screenshot 2024-07-15 at 6 41 33 PM" src="https://github.com/user-attachments/assets/359b9e36-d8b9-46be-860f-873dc835ecc6">
             - searchParams : useful to get the current query params in server-side components
