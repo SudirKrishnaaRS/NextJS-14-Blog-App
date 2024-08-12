@@ -209,9 +209,9 @@ Detailed Example: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/mai
     Timestamp :
            02:17:26
 
-## 10 : NextJS Suspense (V.Easy)
+## 10: NextJS Suspense (V.Easy)
 
-Detailed Example : https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/blog/%5Bslug%5D/page.jsx
+Detailed Example: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/src/app/blog/%5Bslug%5D/page.jsx
 
     Topics :
         - Suspense (same as react)
