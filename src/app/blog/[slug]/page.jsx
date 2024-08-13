@@ -44,13 +44,6 @@ const SinglePostPage = async ({ params }) => {
       <div className={styles.textContainer}>
         <h1 className={styles.title}>{post?.title}</h1>
         <div className={styles.detail}>
-          <Image
-            src="https://images.pexels.com/photos/23383398/pexels-photo-23383398/free-photo-of-tuscany-in-spring.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
-            alt="avatar image"
-            width={50}
-            height={50}
-            className={styles.avatar}
-          />
           {post && (
             <Suspense fallback={<div>Loading...</div>}>
               <PostUser userId={post.userId} />
