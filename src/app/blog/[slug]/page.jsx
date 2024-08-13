@@ -15,8 +15,19 @@ import { getPost } from "@/lib/data";
 //   return res.json();
 // };
 
+// SEO to Generate Dynamic title and desc based on API data
+export const generateMetadata = async ({ params }) => {
+  const { slug } = params;
+  const post = await getPost(slug);
+
+  return {
+    title: post.title,
+    description: post.desc,
+  };
+};
+
 const SinglePostPage = async ({ params }) => {
-  console.log("Params", params);
+  // console.log("Params", params);
 
   const { slug } = params;
 
