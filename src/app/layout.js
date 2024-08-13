@@ -5,9 +5,10 @@ import Footer from "@/components/footer/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
+//SEO for Home page
 export const metadata = {
-  title: "Next App",
-  description: "Next.js starter app",
+  title: "Next App Title",
+  description: "Next.js starter app Description",
 };
 
 export default function RootLayout({ children }) {

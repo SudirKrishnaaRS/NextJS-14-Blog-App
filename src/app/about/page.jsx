@@ -1,6 +1,12 @@
 import Image from "next/image";
 import styles from "./about.module.css";
 
+// SEO for About Page
+export const metadata = {
+  title: "Next App About Page",
+  description: "About Description",
+};
+
 const AboutPage = () => {
   return (
     <div className={styles.container}>
