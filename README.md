@@ -179,8 +179,8 @@ Detailed Examples for Client Side Navigations: https://github.com/SudirKrishnaaR
         - Client Side Navigations
             - useRouter() : Navigate via code like router.push() ,
               replace(""), back(), forward();
-            - usePathname() : Useful to get the current path name
-            - useSearchParams() : Useful to get the current query params
+            - usePathname(): Useful to get the current path name
+            - useSearchParams(): Useful to get the current query params
         - Server Side Navigations
             - Params: useful to get the current path name on the server-side components  (logged in terminal)
 
