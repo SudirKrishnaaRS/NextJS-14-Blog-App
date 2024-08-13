@@ -229,8 +229,12 @@ Detailed Example: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/mai
 
     Topics :
         - SEO Basics (Page Title and Description)
-        - SEO for diffrent pages based on Template
+        - SEO for different pages based on Template
         - Dynamic SEO for pages with dynamic (API) data
+        
+Example for Dynamic SEO:        
+![Screenshot 2024-08-13 at 5 23 03 PM](https://github.com/user-attachments/assets/29df8d6c-3e7d-4be6-b7ec-917adf3d7582)
+
 
     Link :
          https://youtu.be/vCOSTG10Y4o?si=8FmAh_Otp9KInuqI&t=10851
