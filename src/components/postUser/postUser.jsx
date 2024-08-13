@@ -22,7 +22,7 @@ const PostUser = async ({ userId }) => {
   // FETCH DATA WITHOUT AN API
   const user = await getUser(userId);
 
-  console.log("firstUSERR", user, user.email);
+  // console.log("firstUSERR", user, user.email);
 
   return (
     <div className={styles.container}>
