@@ -7,7 +7,10 @@ const inter = Inter({ subsets: ["latin"] });
 
 //SEO for Home page
 export const metadata = {
-  title: "Next App Title",
+  title: {
+    default: "Next App Title",
+    template: "%s | Next.js 14",
+  },
   description: "Next.js starter app Description",
 };
 

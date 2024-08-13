@@ -3,7 +3,7 @@ import styles from "./contact.module.css";
 
 // SEO for Contact Page
 export const metadata = {
-  title: "Next App Contact Page",
+  title: "Contact Page",
   description: "Contact Description",
 };
 

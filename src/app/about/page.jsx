@@ -3,7 +3,7 @@ import styles from "./about.module.css";
 
 // SEO for About Page
 export const metadata = {
-  title: "Next App About Page",
+  title: "About Page",
   description: "About Description",
 };
 
