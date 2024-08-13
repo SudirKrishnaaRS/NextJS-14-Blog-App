@@ -216,6 +216,7 @@ Detailed Example: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/mai
     Topics :
         - Suspense (same as react)
         - Useful for showing loading
+
 ![Screenshot 2024-07-16 at 1 11 31 PM](https://github.com/user-attachments/assets/66d6e68a-2e79-4d8d-9e75-91f72603dede)
 
     Link :
@@ -223,3 +224,16 @@ Detailed Example: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/mai
 
     Timestamp :
            02:24:58
+
+## 11: NextJS SEO (V.Easy)
+
+    Topics :
+        - SEO Basics (Page Title and Description)
+        - SEO for diffrent pages based on Template
+        - Dynamic SEO for pages with dynamic (API) data
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=8FmAh_Otp9KInuqI&t=10851
+
+    Timestamp :
+           03:00:51
