@@ -247,12 +247,15 @@ Example for Dynamic SEO:
         - Server Actions
 
     When to use?
-        - Is Server Actions a replacement for API ? Answer : When your application is simple and small it can be a replacement for API but if it has multiple tables and a large schema then API is the best.
-
+        - Is Server Actions a replacement for API ? 
+            Answer : When your application is simple and small it can be a replacement for API but if it has multiple tables and a large schema then API is the best.
 
     NOTE:
     - `use server` is mandatory for server actions
     - When using server actions the function should always be `async` irrespective of what you do
+    
+Simple Example of Server Action and how to use :
+![Screenshot 2024-08-26 at 4 31 59 PM](https://github.com/user-attachments/assets/5527a22e-f2c5-45c5-a76b-d0468807084f)
 
     Link :
          https://youtu.be/vCOSTG10Y4o?si=2vWgcXWipbzEWOA0&t=11157
