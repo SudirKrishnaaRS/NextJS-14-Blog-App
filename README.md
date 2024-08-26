@@ -232,7 +232,6 @@ Detailed Example: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/mai
         - SEO for different pages based on Template
         - Dynamic SEO for pages with dynamic (API) data
 
-
 Example for Dynamic SEO:  
 ![Screenshot 2024-08-13 at 5 23 03 PM](https://github.com/user-attachments/assets/29df8d6c-3e7d-4be6-b7ec-917adf3d7582)
 
@@ -241,3 +240,22 @@ Example for Dynamic SEO:
 
     Timestamp :
            03:00:51
+
+## 12: NextJS Server Actions (V.Easy)
+
+    Topics:
+        - Server Actions
+
+    When to use?
+        - Is Server Actions a replacement for API ? Answer : When your application is simple and small it can be a replacement for API but if it has multiple tables and a large schema then API is the best.
+
+
+    NOTE:
+    - `use server` is mandatory for server actions
+    - When using server actions the function should always be `async` irrespective of what you do
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=2vWgcXWipbzEWOA0&t=11157
+
+    Timestamp :
+          03:05:57
