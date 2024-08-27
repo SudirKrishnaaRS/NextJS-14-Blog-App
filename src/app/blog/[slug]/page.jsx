@@ -5,15 +5,15 @@ import { Suspense } from "react";
 import { getPost } from "@/lib/data";
 
 // FETCH DATA WITH AN API
-// const getData = async (slug) => {
-//   const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${slug}`);
+const getData = async (slug) => {
+  const res = await fetch(`http://localhost:3000/api/blog/${slug}`);
 
-//   if (!res.ok) {
-//     throw new Error("Something went wrong, Please try again");
-//   }
+  if (!res.ok) {
+    throw new Error("Something went wrong, Please try again");
+  }
 
-//   return res.json();
-// };
+  return res.json();
+};
 
 // SEO to Generate Dynamic title and desc based on API data
 export const generateMetadata = async ({ params }) => {
@@ -32,10 +32,10 @@ const SinglePostPage = async ({ params }) => {
   const { slug } = params;
 
   // FETCH DATA WITH AN API
-  // const post = await getData(slug);
+  const post = await getData(slug);
 
   // FETCH DATA WITHOUT AN API
-  const post = await getPost(slug);
+  // const post = await getPost(slug);
 
   console.log("firstPOSTTT", post);
 
