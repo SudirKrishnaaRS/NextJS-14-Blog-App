@@ -271,7 +271,9 @@ Simple Example of Server Action and how to use :
 
 Example(folder structure) for API routes for our application:
 
-![Screenshot 2024-08-27 at 11 09 53 AM](https://github.com/user-attachments/assets/a5a8cf1e-5052-46d1-9825-0efb2113084b)
+![Screenshot 2024-08-27 at 11 09 53 AM](https://github.com/user-attachments/assets/b285fe4b-b429-4c3a-910f-04ba7dd12bcb)
+
+
 
 
     Link :
