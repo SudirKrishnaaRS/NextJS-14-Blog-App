@@ -279,7 +279,7 @@ Example(folder structure) for API routes for our application:
     Timestamp :
            03:19:27
 
-## 14: NextJS Authentication (V.Easy)
+## 14: NextJS Authentication (V.V.Easy)
 
     Topics:
         - AuthJS
