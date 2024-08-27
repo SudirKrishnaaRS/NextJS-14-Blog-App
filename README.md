@@ -278,3 +278,19 @@ Example(folder structure) for API routes for our application:
 
     Timestamp :
            03:19:27
+
+## 14: NextJS Authentication (V.Easy)
+
+    Topics:
+        - AuthJS
+        - Added Sign-in with GitHub (Login)
+        - Added Logout functionality
+
+    Docs :
+         https://authjs.dev/reference/nextjs#environment-variable-inference
+
+    Link :
+         https://youtu.be/vCOSTG10Y4o?si=YHC-Dcux3OvZvZKz&t=12501
+
+    Timestamp :
+           03:28:21
