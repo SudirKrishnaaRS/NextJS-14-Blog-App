@@ -273,9 +273,6 @@ Example(folder structure) for API routes for our application:
 
 ![Screenshot 2024-08-27 at 11 09 53 AM](https://github.com/user-attachments/assets/b285fe4b-b429-4c3a-910f-04ba7dd12bcb)
 
-
-
-
     Link :
          https://youtu.be/vCOSTG10Y4o?si=9rtGmo2XgUBJm6FM&t=11967
 
