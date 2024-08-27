@@ -268,7 +268,6 @@ Simple Example of Server Action and how to use :
     Topics:
         - API Routes : (filename should be `route.js` under `api` folder)
         - How to make dynamic API routes
-        -
 
 Example(folder structure) for API routes for our application:
 
