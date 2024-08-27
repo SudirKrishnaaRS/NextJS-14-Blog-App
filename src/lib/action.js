@@ -5,6 +5,7 @@
 import { revalidatePath } from "next/cache";
 import { Post } from "./models";
 import { connectToDb } from "./utils";
+import { signIn, signOut } from "./auth";
 
 // addPost() - To add a new Post (Server action)
 export const addPost = async (formData) => {
@@ -49,4 +50,18 @@ export const deletePost = async (formData) => {
     console.log(err);
     return { error: "Something went wrong!" };
   }
+};
+
+// Authetication Handlers :
+
+// GitHub Login Handler - very easy just below 3 lines of code
+export const handleGithubLogin = async () => {
+  "use server";
+  await signIn("github");
+};
+
+// Logout Handler
+export const handleLogout = async () => {
+  "use server";
+  await signOut();
 };
