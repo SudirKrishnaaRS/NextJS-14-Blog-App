@@ -51,7 +51,7 @@ Detailed Notes: https://github.com/SudirKrishnaaRS/NextJS-14-Blog-App/blob/main/
     References / Links :
         - https://nextjs.org/docs/app/building-your-application/routing/colocation
 
-## 02 : Layout
+## 02: Layout
 
     Topics :
         - Layout overview
