@@ -294,3 +294,15 @@ Example(folder structure) for API routes for our application:
 
     Timestamp :
            03:28:21
+
+# Test Credentials
+
+## Normal User
+
+- id : fromclient1
+- pwd : fromclient1
+
+## Admin
+
+- id : fromclient1admin
+- pwd : fromclient1admin
