@@ -9,7 +9,7 @@ import { signIn, signOut } from "./auth";
 import bcrypt from "bcryptjs";
 
 // addPost() - To add a new Post (Server action)
-export const addPost = async (formData) => {
+export const addPost = async (previousState, formData) => {
   //   const title = formData.get("title");
   //   const desc = formData.get("desc");
   //   const slug = formData.get("slug");
@@ -30,6 +30,7 @@ export const addPost = async (formData) => {
     await newPost.save();
     console.log("saved to db");
     revalidatePath("/blog"); // to revalidate the cache and make an API call to refresh the blog page as we added a new post
+    revalidatePath("/admin");
   } catch (err) {
     console.log(err);
     return { error: "Something went wrong!" };
@@ -47,6 +48,46 @@ export const deletePost = async (formData) => {
     await Post.findByIdAndDelete(id);
     console.log("deleted from db");
     revalidatePath("/blog"); // to revalidate the cache and make an API call to refresh the blog page as we added a new post
+    revalidatePath("/admin");
+  } catch (err) {
+    console.log(err);
+    return { error: "Something went wrong!" };
+  }
+};
+
+export const addUser = async (previousState, formData) => {
+  const { username, email, password, img } = Object.fromEntries(formData);
+
+  try {
+    connectToDb();
+    const newUser = new User({
+      username,
+      email,
+      password,
+      img,
+    });
+
+    await newUser.save();
+    console.log("saved to db");
+    revalidatePath("/admin");
+  } catch (err) {
+    console.log(err);
+    return { error: "Something went wrong!" };
+  }
+};
+
+export const deleteUser = async (formData) => {
+  const { id } = Object.fromEntries(formData);
+
+  // HINT :  The `id` is the same string value given to the `name` in input field
+
+  try {
+    connectToDb();
+    // While we delete a user we delete the user's post also
+    await Post.deleteMany({ userId: id });
+    await User.findByIdAndDelete(id);
+    console.log("deleted from db");
+    revalidatePath("/admin"); // to revalidate the cache and make an API call to refresh the admin page as we deleted a user
   } catch (err) {
     console.log(err);
     return { error: "Something went wrong!" };
