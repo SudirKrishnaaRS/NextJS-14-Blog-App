@@ -25,7 +25,7 @@ const AdminPage = async () => {
       <div className={styles.row}>
         <div className={styles.col}>
           <Suspense fallback={<div>Loading...</div>}>
-            <AdminUsers userId={session?.user.id} />
+            <AdminUsers />
           </Suspense>
         </div>
         <div className={styles.col}>
