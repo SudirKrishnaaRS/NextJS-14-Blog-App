@@ -302,6 +302,9 @@ Example(folder structure) for API routes for our application:
 - id : fromclient1
 - pwd : fromclient1
 
+- id : brucewayne1
+- pwd : brucewayne1
+
 ## Admin
 
 - id : fromclient1admin
