@@ -12,7 +12,9 @@ const Home = () => {
           hic necessitatibus ab dicta atque.
         </p>
         <div className={styles.buttons}>
-          <button className={styles.button}>Learn More</button>
+          <button className={styles.button}>
+            <Link href="/about">Learn More</Link>
+          </button>
           <button className={styles.button}>
             <Link href="/contact">Contact</Link>
           </button>
