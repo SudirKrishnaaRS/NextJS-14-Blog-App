@@ -4,7 +4,7 @@ import { getPosts } from "@/lib/data";
 
 // FETCH DATA WITH AN API
 const getData = async () => {
-  const res = await fetch("https://sudoblog.netlify.app/api/blog", {
+  const res = await fetch("http://localhost:3000//api/blog", {
     // cache: "no-store",
     next: { revalidate: 3600 },
   });
