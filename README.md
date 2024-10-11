@@ -26,6 +26,21 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+# Test Credentials
+
+## Normal User
+
+- id : fromclient1
+- pwd : fromclient1
+
+- id : brucewayne1
+- pwd : brucewayne1
+
+## Admin
+
+- id : fromclient1admin
+- pwd : fromclient1admin
+
 # Topics Covered
 
 Concepts alongside with Timestamp
@@ -295,17 +310,4 @@ Example(folder structure) for API routes for our application:
     Timestamp :
            03:28:21
 
-# Test Credentials
 
-## Normal User
-
-- id : fromclient1
-- pwd : fromclient1
-
-- id : brucewayne1
-- pwd : brucewayne1
-
-## Admin
-
-- id : fromclient1admin
-- pwd : fromclient1admin
